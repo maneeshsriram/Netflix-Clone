@@ -1,0 +1,29 @@
+.head {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  transition-timing-function: ease-in;
+  transition: all 0.4s;
+  padding: 20px;
+}
+
+.creator {
+  position: relative;
+  left: 35%;
+  color: rgb(240, 216, 171);
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.6;
+}
+
+.head__black {
+  background-color: #111;
+}
+
+.head__logo {
+  width: 100px;
+  object-fit: contain;
+}

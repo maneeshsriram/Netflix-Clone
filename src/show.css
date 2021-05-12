@@ -1,0 +1,44 @@
+.show {
+  color: #fff;
+  margin-bottom: 3%;
+  margin-left: 2%;
+}
+
+.first {
+  margin-top: 4%;
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.slides {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  padding: 30px;
+}
+
+.show_posters::-webkit-scrollbar {
+  display: none;
+}
+
+.show_poster {
+  max-height: 200px;
+  object-fit: contain;
+  margin-right: 10px;
+  transition: transform 500ms;
+}
+
+.show_poster:hover {
+  transform: scale(1.1);
+}
+
+.show_posterLarge {
+  max-height: 250px;
+  margin-right: 20px;
+}
+
+.show_posterLarge:hover {
+  transform: scale(1.2);
+}

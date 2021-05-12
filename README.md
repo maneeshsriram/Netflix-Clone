@@ -2,7 +2,8 @@
 
 
 
-Netflix UI clone with ReactJS, firebase (hosting) - https://netflix-clone-by-maneesh.web.app/
+**Netflix UI clone with ReactJS, firebase** <br />
+https://netflix-clone-by-maneesh.web.app/
 
 **Insert firebase configurations:** <br />
 Create firebase project and allow hosting- https://firebase.google.com/

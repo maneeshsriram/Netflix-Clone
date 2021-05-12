@@ -1,0 +1,56 @@
+.poster {
+  height: 448px;
+  margin-bottom: 2%;
+  object-fit: contain;
+  color: rgb(240, 229, 229);
+}
+
+.poster_contents {
+  height: 190px;
+  margin-left: 33px;
+  padding-top: 140px;
+}
+
+.poster_title {
+  font-size: 2.9rem;
+  font-weight: 810;
+  padding-bottom: 0.3rem;
+}
+
+.poster_button {
+  outline: none;
+  border: none;
+  color: #fff;
+  font-weight: 700;
+  padding-left: 2rem;
+  padding-top: 0.5rem;
+  padding-right: 2rem;
+  padding-bottom: 0.5rem;
+  margin-right: 1rem;
+  cursor: pointer;
+  border-radius: 0.2vw;
+  background-color: rgba(49, 49, 49, 0.5);
+}
+
+.poster_button:hover {
+  color: rgb(19, 18, 18);
+  background-color: #e6e4e4;
+  transition: all 0.4s;
+}
+
+.poster_summary {
+  max-width: 360px;
+  line-height: 1.3rem;
+  padding-top: 1.1rem;
+  font-size: 0.8rem;
+}
+
+.poster_fadeBottom {
+  height: 7.4rem;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #111
+  );
+}

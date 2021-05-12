@@ -1,3 +1,7 @@
+![netflix](https://user-images.githubusercontent.com/65223389/117921257-0df4e780-b30e-11eb-8d7b-21fb6b17c8b3.png)
+
+
+
 Netflix UI clone with ReactJS, firebase (hosting) - https://netflix-clone-by-maneesh.web.app/
 
 Insert firebase configurations: <br />
